@@ -1,9 +1,8 @@
-import Stopwatch from "./components/StopWatch";
-
+import F2 from "./components/f2";
 function App() {
   return (
     <div>
-      <Stopwatch />
+      <F2 />
     </div>
   );
 }
