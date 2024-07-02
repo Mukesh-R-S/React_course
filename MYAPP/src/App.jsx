@@ -1,5 +1,4 @@
 import Calculator from "./components/Calculator";
-import Addition from "./components/Addition";
 function App() {
   return (
     <div>
