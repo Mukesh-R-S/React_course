@@ -1,8 +1,9 @@
-import F2 from "./components/f2";
+import Calculator from "./components/Calculator";
+import Addition from "./components/Addition";
 function App() {
   return (
     <div>
-      <F2 />
+      <Calculator />
     </div>
   );
 }
